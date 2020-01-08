@@ -5,5 +5,5 @@
 print('Django_Basic_Sample_Site')
 ```
 
-Sample Site : <http://ankiwoong.pythonanywhere.com>
+Sample Site : <http://ankiwoong.pythonanywhere.com><br>
 Deployment site : <http://pythonanywhere.com>
